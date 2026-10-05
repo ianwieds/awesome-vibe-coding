@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Vibe Coding",
+  "repo": "ianwieds/awesome-vibe-coding",
+  "tagline": "Prompt-to-app builders, agentic editors, starter templates, guides and practices for building software by describing it.",
+  "scope": "It is about building software mainly by describing it to an AI, not a general coding assistant for line-by-line work.",
+  "accent": "FF6B6B",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a microphone hears a prompt typed into a speech bubble, sparks fly from the bubble into a phone where a habit tracker app builds itself block by block, then gets a check mark."
 }
