@@ -37,6 +37,7 @@ Vibe coding is building software by describing what you want to an AI and steeri
 ### Full-stack apps
 
 - [Anything](https://www.anything.com) - Builds web and mobile apps with a backend, payments and hosting from a description.
+- [AppWizzy](https://appwizzy.com/) - Builds and edits web apps with AI in cloud development VMs, with templates and Git integration.
 - [Atoms](https://atoms.dev) - Builder, formerly MGX, where a team of AI agents plans, builds and launches web apps.
 - [Base44](https://base44.com) - Builds full-stack apps with a database, auth and hosting included from a chat prompt.
 - [Blink](https://blink.new) - Builds and hosts websites and full-stack web or mobile apps from one prompt.
