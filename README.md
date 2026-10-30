@@ -119,6 +119,7 @@ Vibe coding is building software by describing what you want to an AI and steeri
 - [Kiro](https://kiro.dev) - AWS editor that turns prompts into specs, then builds them with agents.
 - [Orca](https://github.com/stablyai/orca) - Workspace for running a fleet of coding agents in parallel on your own subscriptions.
 - [Qoder](https://qoder.com) - Agentic IDE that hands whole tasks to autonomous coding agents.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Web UI for driving Claude Code and Codex on your own machine from a phone or browser.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app that runs many coding agents at once, each in its own git worktree.
 - [Tempo](https://www.tempo.new) - Turns customer feedback, issues and requirements into reviewed pull requests with agents.
 - [Trae](https://www.trae.ai) - ByteDance's AI IDE whose agent can build a project from a description.
