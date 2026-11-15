@@ -219,10 +219,10 @@ Vibe coding is building software by describing what you want to an AI and steeri
 - [r/vibecoding](https://www.reddit.com/r/vibecoding/) - Subreddit for sharing vibe-coded projects, tools and workflows.
 - [Vibe Jam](https://vibejam.com) - Yearly game jam, started by Pieter Levels, for games written mostly by AI.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
