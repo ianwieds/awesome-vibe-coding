@@ -147,6 +147,7 @@ Vibe coding is building software by describing what you want to an AI and steeri
 - [Convex](https://github.com/get-convex/convex-backend) - Reactive TypeScript database and backend that ships guidance for AI coding tools.
 - [InstantDB](https://github.com/instantdb/instant) - Backend with auth, permissions, storage and realtime sync, built for AI-coded apps.
 - [Neon](https://neon.com) - Serverless Postgres that app-building platforms create per project through an API.
+- [Prisma Postgres](https://www.prisma.io/postgres) - Managed Postgres with zero cold starts that agents create with npx create-db@latest.
 - [Supabase](https://github.com/supabase/supabase) - Postgres backend with auth, storage and APIs that Lovable, Bolt and v0 connect to.
 
 ## Starter templates
